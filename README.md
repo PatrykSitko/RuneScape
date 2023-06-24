@@ -1,3 +1,3 @@
-# RuneScape, the Browser based MMORPG.
+# RuneScape, the browser based MMORPG.
 
 A medieval themed role playing game.
