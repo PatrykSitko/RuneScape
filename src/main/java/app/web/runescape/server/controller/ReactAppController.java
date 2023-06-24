@@ -1,4 +1,4 @@
-package io.patryksitko.java.react.template.controller;
+package app.web.runescape.server.controller;
 
 import javax.servlet.http.HttpServletRequest;
 

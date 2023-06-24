@@ -1,4 +1,4 @@
-package io.patryksitko.java.react.template;
+package app.web.runescape.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
